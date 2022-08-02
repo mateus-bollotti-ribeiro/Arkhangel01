@@ -1,11 +1,11 @@
 # 🎮Olá! Meu nome é Mateus, sou do Paraná e tenho apenas 16 anos.
 
-## 💻<strong>Web Developer (🔴Student)</strong></br>
+## 💻<strong>Back-End Developer (🔴Student)</strong></br>
 
 <ul>
-  <li>Cursando Back-End com NodeJs na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat<a/>📒</li>
-  <li>JavaScript | TypeScript</li>
-  <li>NodeJs | Express</li>
+  <li>Cursando Back-End com Java☕</li>
+  <li>Java</li>
+  <li>NodeJs</li>
 </ul>
 
 ## 🛠️Progresso acadêmico:
