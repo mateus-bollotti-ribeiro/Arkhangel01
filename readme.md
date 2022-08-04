@@ -15,6 +15,6 @@
 + 💻 <strong>Inglês técnico.</strong>
 
 ## ☎️Onde me encontrar:
-+ Discord -> ! 𝓪𝓻𝓴𝓱𝓪𝓷𝓰𝓮𝓵#0101
++ Discord -> ! Arkhangel#0101
 + Instagram -> -- -- --
 + WhatsApp -> +55 44 97400-5474
