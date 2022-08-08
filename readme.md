@@ -11,7 +11,7 @@
 
 ## 🛠️Progresso acadêmico:
 + 📝2º Ano do Ensino Médio;</br>
-+ ⚙️<strong>Disposto à construir uma carreira notável na área de Programação;</strong></br>
++ ⚙️<strong>Disposto a construir uma carreira notável na área de Programação;</strong></br>
 + 🎓 Pretendo cursar Engenharia de Software após completar o Colégio;
 + 💻 <strong>Inglês técnico.</strong>
 
