@@ -3,9 +3,10 @@
 ## 💻<strong>Back-End Developer (🔴Student)</strong></br>
 
 <ul>
-  <li>Cursando Back-End com Java☕</li>
+  <li>☕</li>
   <li>Java</li>
-  <li>NodeJs</li>
+  <li>Spring Boot (studying)</li>
+  <li>SQL & NoSQL (studying)</li>
 </ul>
 
 ## 🛠️Progresso acadêmico:
@@ -15,6 +16,6 @@
 + 💻 <strong>Inglês técnico.</strong>
 
 ## ☎️Onde me encontrar:
-+ Discord -> ! Arkhangel#0101
++ Discord -> ! Arkhangel#0001
 + Instagram -> -- -- --
 + WhatsApp -> +55 44 97400-5474
