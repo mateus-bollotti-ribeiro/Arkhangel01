@@ -12,5 +12,5 @@
 + <strong>Discord: ! Arkh#0022</strong><img src="https://img.icons8.com/color/344/discord--v2.png" width="30"></p>
 + <strong>Gmail: mateus.ribeiro.dev@gmail.com</strong><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="30">
 
-<img src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" width="870px"> 
+<img src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" width="850px"> 
 <p><img src="https://aleen42.github.io/badges/src/lamborghini.svg"> <img src="https://aleen42.github.io/badges/src/bugatti.svg">💘</p>
