@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Mateus "Arkhangel" Bollotti🤙
 
 <strong>Sou apaixonado por Tecnologia desde meus 13 anos. Com um destaque para Java - linguagem na qual me chama muita atenção.</strong>
+<strong>Atualmente, estou estudando o Framework Spring, do Java. (iniciarei meus estudos em MySQL em breve, assim espero)</strong>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://camo.githubusercontent.com/4bde567a4772f994f22418e4505a1ac8dc6e6219100251aa79b7279e02c8bb07/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 ##
