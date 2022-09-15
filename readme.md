@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Mateus "Arkhangel" Bollotti🤙
 
 <strong>Sou apaixonado por Tecnologia desde meus 13 anos, com um destaque para Back-End.</strong>
-<strong>Atualmente, estou estudando Node.js com Express e Nest, e em breve pretendo evoluir meu código utilizando TypeScript. Em meu tempo livre me dedico à passar um tempo na Netflix e explorar um pouco do mundo de casos criminais.<strong>
+<strong>Atualmente, estou estudando Machine Learning e Dados. Tiro meu tempo livre para conhecer um pouco mais do mundo de DevOps, como Cloud Computing e Segurança da Informação.<strong>
 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 
 ##
 
