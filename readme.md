@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Mateus "Arkhangel" Bollotti🤙
 
 <strong>Sou apaixonado por Tecnologia desde meus 13 anos, com um destaque para A.I.</strong>
-<strong>Atualmente, estou estudando Machine Learning e Dados. Tiro meu tempo livre para conhecer um pouco mais do mundo de DevOps, como Cloud Computing e Segurança da Informação.<strong>
+<strong>Atualmente, estou estudando Data Science (análise e tratamento de dados) e aperfeiçoando meus conhecimentos em Machine Learning e Python. Em meu tempo livre, costumo assistir alguns vídeos relacionados à tecnologia e derivados, e algumas séries - até porquê ninguém é de ferro😅<strong>
+##
+<strong>EM BREVE IREI ADICIONAR REPOSITÓRIOS COM OS NOTEBOOKS QUE CONTÉM MINHAS NOTAS DE ESTUDOS.</strong>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 
